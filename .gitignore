@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+*.egg
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Tooling caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.cache/
+
+# OHLCV / market-data cache (regenerated at runtime)
+.cache/ohlcv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Note: bt_out/ (backtest reports) is intentionally tracked — README links to it.

@@ -1,0 +1,7132 @@
+{
+  "breadth": {
+    "as_of": "2026-08-10",
+    "analyzed": 503,
+    "phase_counts": {
+      "distribution": 188,
+      "markup": 308,
+      "undefined": 4,
+      "markdown": 2,
+      "accumulation": 1
+    },
+    "bullish": 116,
+    "bearish": 42,
+    "neutral": 345
+  },
+  "bullish_setups": [
+    {
+      "ticker": "ZBRA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "ZBRA",
+        "timeframe": "1wk",
+        "start": "2023-10-09",
+        "end": "2026-08-10",
+        "duration": 149,
+        "upper": 328.70001220703125,
+        "lower": 227.19000244140625,
+        "avg_volume": 2696380.362416107,
+        "volume_trend": 0.007023,
+        "width_atr": 11.182,
+        "slope_atr": 0.0105,
+        "num_sh": 9,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 1.5017238476616521,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9148
+      },
+      "springboard_score": 0.67,
+      "transition_score": 0.9148,
+      "transition_direction": "bullish",
+      "composite_score": 0.9148,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "ULTA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.913,
+      "phase_confidence": 0.982,
+      "active_tr": {
+        "ticker": "ULTA",
+        "timeframe": "1wk",
+        "start": "2022-11-28",
+        "end": "2026-08-10",
+        "duration": 194,
+        "upper": 497.4100036621094,
+        "lower": 402.0,
+        "avg_volume": 3954757.381443299,
+        "volume_trend": -0.00037,
+        "width_atr": 14.324,
+        "slope_atr": 0.0145,
+        "num_sh": 11,
+        "num_sl": 11
+      },
+      "price_pos_in_tr": 1.1903364737980966,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.0315
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.997
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.46
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.913
+      },
+      "springboard_score": 0.6487,
+      "transition_score": 0.913,
+      "transition_direction": "bullish",
+      "composite_score": 0.913,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "NWSA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 1.0,
+      "phase_confidence": 1.0,
+      "active_tr": {
+        "ticker": "NWSA",
+        "timeframe": "1wk",
+        "start": "2020-11-30",
+        "end": "2026-08-10",
+        "duration": 298,
+        "upper": 26.736726964252476,
+        "lower": 20.248262154806795,
+        "avg_volume": 15104849.147651007,
+        "volume_trend": 0.001137,
+        "width_atr": 13.428,
+        "slope_atr": 0.0237,
+        "num_sh": 21,
+        "num_sl": 18
+      },
+      "price_pos_in_tr": 1.339567776740916,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0048
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0593
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.7634
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1566
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-21",
+          "probability": 0.0217
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 1.0
+      },
+      "springboard_score": 0.71,
+      "transition_score": 0.875,
+      "transition_direction": "bullish",
+      "composite_score": 0.875,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "BMY",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 1.0,
+      "phase_confidence": 1.0,
+      "active_tr": {
+        "ticker": "BMY",
+        "timeframe": "1wk",
+        "start": "2022-04-04",
+        "end": "2026-08-10",
+        "duration": 228,
+        "upper": 57.644535124695096,
+        "lower": 46.102487234674086,
+        "avg_volume": 59777190.40789474,
+        "volume_trend": 0.001224,
+        "width_atr": 12.712,
+        "slope_atr": 0.0167,
+        "num_sh": 14,
+        "num_sl": 12
+      },
+      "price_pos_in_tr": 1.6069517704254699,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0569
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.4294
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1411
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-09",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1325
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-09",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.2298
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 1.0
+      },
+      "springboard_score": 0.67,
+      "transition_score": 0.875,
+      "transition_direction": "bullish",
+      "composite_score": 0.875,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7836,
+      "phase_confidence": 0.9567,
+      "active_tr": {
+        "ticker": "PFE",
+        "timeframe": "1wk",
+        "start": "2024-04-22",
+        "end": "2026-08-10",
+        "duration": 121,
+        "upper": 25.737041201336844,
+        "lower": 22.0346598968543,
+        "avg_volume": 213787495.43801653,
+        "volume_trend": 0.002099,
+        "width_atr": 7.62,
+        "slope_atr": 0.0091,
+        "num_sh": 10,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 1.2871011784866027,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.7928
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7836
+      },
+      "springboard_score": 0.6064,
+      "transition_score": 0.7836,
+      "transition_direction": "bullish",
+      "composite_score": 0.7836,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.79",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7809,
+      "phase_confidence": 0.9562,
+      "active_tr": {
+        "ticker": "GPN",
+        "timeframe": "1wk",
+        "start": "2025-04-14",
+        "end": "2026-08-10",
+        "duration": 70,
+        "upper": 85.7518550099046,
+        "lower": 64.86737245395781,
+        "avg_volume": 15174864.942857143,
+        "volume_trend": 0.003527,
+        "width_atr": 5.579,
+        "slope_atr": 0.0137,
+        "num_sh": 4,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 1.4346838279009748,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0546
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.7887
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-29",
+          "probability": 0.0034
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-29",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7809
+      },
+      "springboard_score": 0.5728,
+      "transition_score": 0.7809,
+      "transition_direction": "bullish",
+      "composite_score": 0.7809,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.79",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "EMR",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8779,
+      "phase_confidence": 0.9749,
+      "active_tr": {
+        "ticker": "EMR",
+        "timeframe": "1wk",
+        "start": "2024-11-25",
+        "end": "2026-08-10",
+        "duration": 90,
+        "upper": 148.36655076195996,
+        "lower": 121.93810185533471,
+        "avg_volume": 14490377.711111112,
+        "volume_trend": -0.000163,
+        "width_atr": 10.586,
+        "slope_atr": 0.0515,
+        "num_sh": 6,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 1.5994848962905082,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0496
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.5412
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.8225
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-24",
+          "probability": 0.2489
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-27",
+          "probability": 0.0222
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-24",
+          "probability": 0.3509
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-27",
+          "probability": 0.0313
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8779
+      },
+      "springboard_score": 0.6213,
+      "transition_score": 0.7682,
+      "transition_direction": "bullish",
+      "composite_score": 0.7682,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.82",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "FOX",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7642,
+      "phase_confidence": 0.9531,
+      "active_tr": {
+        "ticker": "FOX",
+        "timeframe": "1wk",
+        "start": "2024-12-16",
+        "end": "2026-08-10",
+        "duration": 87,
+        "upper": 54.430598012956665,
+        "lower": 45.99935860444745,
+        "avg_volume": 7131879.850574712,
+        "volume_trend": 0.004554,
+        "width_atr": 8.363,
+        "slope_atr": 0.0385,
+        "num_sh": 5,
+        "num_sl": 4
+      },
+      "price_pos_in_tr": 1.4352148341869042,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.7636
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7642
+      },
+      "springboard_score": 0.5918,
+      "transition_score": 0.7642,
+      "transition_direction": "bullish",
+      "composite_score": 0.7642,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.76",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8645,
+      "phase_confidence": 0.9723,
+      "active_tr": {
+        "ticker": "EXPE",
+        "timeframe": "1wk",
+        "start": "2025-10-06",
+        "end": "2026-08-10",
+        "duration": 45,
+        "upper": 290.83368759793234,
+        "lower": 205.91281810670506,
+        "avg_volume": 9834427.577777777,
+        "volume_trend": -0.008456,
+        "width_atr": 6.372,
+        "slope_atr": 0.0216,
+        "num_sh": 2,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.4413085992311099,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.4263
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.8038
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8645
+      },
+      "springboard_score": 0.5637,
+      "transition_score": 0.7564,
+      "transition_direction": "bullish",
+      "composite_score": 0.7564,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.80",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "GEN",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9512,
+      "phase_confidence": 0.9898,
+      "active_tr": {
+        "ticker": "GEN",
+        "timeframe": "1wk",
+        "start": "2020-08-03",
+        "end": "2026-08-10",
+        "duration": 315,
+        "upper": 24.643846332967062,
+        "lower": 19.794070402527236,
+        "avg_volume": 23412119.577777777,
+        "volume_trend": -0.000387,
+        "width_atr": 13.24,
+        "slope_atr": 0.0163,
+        "num_sh": 19,
+        "num_sl": 21
+      },
+      "price_pos_in_tr": 2.0157486515898486,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-10",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.73,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.73,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00"
+      ]
+    },
+    {
+      "ticker": "F",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8254,
+      "phase_confidence": 0.9646,
+      "active_tr": {
+        "ticker": "F",
+        "timeframe": "1wk",
+        "start": "2025-08-04",
+        "end": "2026-08-10",
+        "duration": 54,
+        "upper": 14.45917047209817,
+        "lower": 11.966251980922639,
+        "avg_volume": 317257341.8518519,
+        "volume_trend": -0.008255,
+        "width_atr": 10.295,
+        "slope_atr": 0.0744,
+        "num_sh": 3,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 0.771685223247301,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.857
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-22",
+          "probability": 0.8984
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-30",
+          "probability": 0.0506
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-22",
+          "probability": 0.321
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-30",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8254
+      },
+      "springboard_score": 0.5414,
+      "transition_score": 0.7222,
+      "transition_direction": "bullish",
+      "composite_score": 0.7222,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.86",
+        "近期UT p=0.90",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8217,
+      "phase_confidence": 0.9639,
+      "active_tr": {
+        "ticker": "BRK-B",
+        "timeframe": "1wk",
+        "start": "2024-02-26",
+        "end": "2026-08-10",
+        "duration": 129,
+        "upper": 507.6600036621094,
+        "lower": 458.64500427246094,
+        "avg_volume": 21269456.93023256,
+        "volume_trend": 0.002689,
+        "width_atr": 9.367,
+        "slope_atr": 0.0431,
+        "num_sh": 7,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 0.9851063756927783,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.8512
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.5242
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0447
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8217
+      },
+      "springboard_score": 0.5179,
+      "transition_score": 0.719,
+      "transition_direction": "bullish",
+      "composite_score": 0.719,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.85",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "HIG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9518,
+      "phase_confidence": 0.9899,
+      "active_tr": {
+        "ticker": "HIG",
+        "timeframe": "1wk",
+        "start": "2024-07-22",
+        "end": "2026-08-10",
+        "duration": 108,
+        "upper": 133.3723368579936,
+        "lower": 118.1425681458559,
+        "avg_volume": 7601749.962962963,
+        "volume_trend": 0.000393,
+        "width_atr": 9.726,
+        "slope_atr": 0.0641,
+        "num_sh": 7,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 1.2913807021286854,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0451
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.745
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.9286
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9518
+      },
+      "springboard_score": 0.5257,
+      "transition_score": 0.7138,
+      "transition_direction": "bullish",
+      "composite_score": 0.7138,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.93",
+        "→markup(2周前)看涨"
+      ]
+    },
+    {
+      "ticker": "REG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.6337,
+      "phase_confidence": 0.9299,
+      "active_tr": {
+        "ticker": "REG",
+        "timeframe": "1wk",
+        "start": "2021-08-30",
+        "end": "2026-08-10",
+        "duration": 259,
+        "upper": 65.58803370944068,
+        "lower": 54.906314872795704,
+        "avg_volume": 5160829.876447876,
+        "volume_trend": 0.001653,
+        "width_atr": 14.387,
+        "slope_atr": 0.0336,
+        "num_sh": 15,
+        "num_sl": 18
+      },
+      "price_pos_in_tr": 2.0552577795102587,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.4789
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.71,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.71,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00"
+      ]
+    },
+    {
+      "ticker": "EBAY",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7324,
+      "phase_confidence": 0.9472,
+      "active_tr": {
+        "ticker": "EBAY",
+        "timeframe": "1wk",
+        "start": "2025-07-28",
+        "end": "2026-08-10",
+        "duration": 55,
+        "upper": 100.0094392854775,
+        "lower": 78.35200529794658,
+        "avg_volume": 25229572.21818182,
+        "volume_trend": -0.007014,
+        "width_atr": 6.902,
+        "slope_atr": 0.0791,
+        "num_sh": 4,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.2110389692614856,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.8689
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.8036
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.6673
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-06",
+        "bars_ago": 5,
+        "probability": 0.7324
+      },
+      "springboard_score": 0.71,
+      "transition_score": 0.2747,
+      "transition_direction": "bullish",
+      "composite_score": 0.71,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(5周前)看涨"
+      ]
+    },
+    {
+      "ticker": "WAB",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "WAB",
+        "timeframe": "1wk",
+        "start": "2026-01-19",
+        "end": "2026-08-10",
+        "duration": 30,
+        "upper": 270.72567517429604,
+        "lower": 241.8335842851485,
+        "avg_volume": 4562551.766666667,
+        "volume_trend": 0.003442,
+        "width_atr": 6.37,
+        "slope_atr": 0.126,
+        "num_sh": 2,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 1.9433147610050392,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.7158
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.9466
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9148
+      },
+      "springboard_score": 0.7022,
+      "transition_score": 0.6861,
+      "transition_direction": "bullish",
+      "composite_score": 0.7022,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(2周前)看涨"
+      ]
+    },
+    {
+      "ticker": "CRH",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "CRH",
+        "timeframe": "1wk",
+        "start": "2025-09-29",
+        "end": "2026-08-10",
+        "duration": 46,
+        "upper": 120.61225499697804,
+        "lower": 98.67115727161323,
+        "avg_volume": 26519639.5,
+        "volume_trend": -0.007467,
+        "width_atr": 5.07,
+        "slope_atr": 0.0629,
+        "num_sh": 4,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": -0.04426215750583602,
+      "recent_bull_events": [
+        {
+          "event_type": "Spring",
+          "date": "2026-07-21",
+          "probability": 0.4936
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-23",
+          "probability": 0.0993
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-31",
+          "probability": 0.0034
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-08-06",
+          "probability": 0.7788
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.6994,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.6994,
+      "tags": [
+        "阶段=markup",
+        "近期Spring p=0.78"
+      ]
+    },
+    {
+      "ticker": "EOG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8877,
+      "phase_confidence": 0.9769,
+      "active_tr": {
+        "ticker": "EOG",
+        "timeframe": "1wk",
+        "start": "2022-01-31",
+        "end": "2026-08-10",
+        "duration": 237,
+        "upper": 123.28053500152387,
+        "lower": 102.8886536073482,
+        "avg_volume": 17532834.80590717,
+        "volume_trend": -3.9e-05,
+        "width_atr": 10.238,
+        "slope_atr": 0.0151,
+        "num_sh": 16,
+        "num_sl": 18
+      },
+      "price_pos_in_tr": 1.88905326144961,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-01",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-08",
+          "probability": 0.4912
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-14",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-20",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-24",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-30",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-05",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.69,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.69,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00"
+      ]
+    },
+    {
+      "ticker": "GILD",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.6585,
+      "phase_confidence": 0.9341,
+      "active_tr": {
+        "ticker": "GILD",
+        "timeframe": "1wk",
+        "start": "2024-11-04",
+        "end": "2026-08-10",
+        "duration": 93,
+        "upper": 118.73682188754586,
+        "lower": 106.44034748773704,
+        "avg_volume": 36024800.77419355,
+        "volume_trend": -0.001786,
+        "width_atr": 12.049,
+        "slope_atr": 0.0942,
+        "num_sh": 5,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 2.577946399205634,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-01",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-08",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-14",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-20",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-24",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-30",
+          "probability": 0.408
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-05",
+          "probability": 0.9893
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.6849,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.6849,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.99"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.6834,
+      "phase_confidence": 0.9385,
+      "active_tr": {
+        "ticker": "GM",
+        "timeframe": "1wk",
+        "start": "2025-12-01",
+        "end": "2026-08-10",
+        "duration": 37,
+        "upper": 85.41000366210938,
+        "lower": 72.83256708347758,
+        "avg_volume": 37963238.81081081,
+        "volume_trend": -0.007357,
+        "width_atr": 4.734,
+        "slope_atr": 0.0127,
+        "num_sh": 3,
+        "num_sl": 4
+      },
+      "price_pos_in_tr": 1.0779169683275531,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.7532
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.0554
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.6834
+      },
+      "springboard_score": 0.4661,
+      "transition_score": 0.6834,
+      "transition_direction": "bullish",
+      "composite_score": 0.6834,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.75",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "AIG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.6594,
+      "phase_confidence": 0.9343,
+      "active_tr": {
+        "ticker": "AIG",
+        "timeframe": "1wk",
+        "start": "2021-10-18",
+        "end": "2026-08-10",
+        "duration": 252,
+        "upper": 76.88200814951155,
+        "lower": 68.01723724550686,
+        "avg_volume": 21015415.277777776,
+        "volume_trend": -0.000475,
+        "width_atr": 13.472,
+        "slope_atr": 0.0445,
+        "num_sh": 17,
+        "num_sl": 17
+      },
+      "price_pos_in_tr": 0.9038881681838189,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0574
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.6119
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.8887
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-01",
+          "probability": 0.2496
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-01",
+          "probability": 0.352
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.6594
+      },
+      "springboard_score": 0.6817,
+      "transition_score": 0.4945,
+      "transition_direction": "bullish",
+      "composite_score": 0.6817,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.89",
+        "→markup(2周前)看涨"
+      ]
+    },
+    {
+      "ticker": "BKNG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.6757,
+      "phase_confidence": 0.9371,
+      "active_tr": {
+        "ticker": "BKNG",
+        "timeframe": "1wk",
+        "start": "2023-12-11",
+        "end": "2026-08-10",
+        "duration": 140,
+        "upper": 209.811071027041,
+        "lower": 149.8309267846688,
+        "avg_volume": 32041707.364285715,
+        "volume_trend": 0.00202,
+        "width_atr": 10.437,
+        "slope_atr": 0.0397,
+        "num_sh": 8,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 1.0588348920367658,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.6347
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-08-05",
+          "probability": 0.8722
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-08-06",
+          "probability": 0.8295
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-05",
+          "probability": 0.3548
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-06",
+          "probability": 0.2835
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.6757
+      },
+      "springboard_score": 0.54,
+      "transition_score": 0.6757,
+      "transition_direction": "bullish",
+      "composite_score": 0.6757,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.63",
+        "近期UT p=0.87",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "HON",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7976,
+      "phase_confidence": 0.9593,
+      "active_tr": {
+        "ticker": "HON",
+        "timeframe": "1wk",
+        "start": "2020-11-09",
+        "end": "2026-08-10",
+        "duration": 301,
+        "upper": 200.99508784491655,
+        "lower": 177.76747477498688,
+        "avg_volume": 15958657.016611295,
+        "volume_trend": 0.001545,
+        "width_atr": 12.686,
+        "slope_atr": 0.0177,
+        "num_sh": 18,
+        "num_sl": 17
+      },
+      "price_pos_in_tr": 2.4205040160137044,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.5773
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.9286
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.6743,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.6743,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.93"
+      ]
+    },
+    {
+      "ticker": "PLD",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7035,
+      "phase_confidence": 0.942,
+      "active_tr": {
+        "ticker": "PLD",
+        "timeframe": "1wk",
+        "start": "2021-09-06",
+        "end": "2026-08-10",
+        "duration": 258,
+        "upper": 122.77467687021567,
+        "lower": 100.20379082800443,
+        "avg_volume": 17430880.49612403,
+        "volume_trend": 0.000991,
+        "width_atr": 11.887,
+        "slope_atr": 0.0046,
+        "num_sh": 13,
+        "num_sl": 15
+      },
+      "price_pos_in_tr": 1.816774751738786,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.7149
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 0.9974
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.67,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.67,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00"
+      ]
+    },
+    {
+      "ticker": "CHD",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7525,
+      "phase_confidence": 0.9509,
+      "active_tr": {
+        "ticker": "CHD",
+        "timeframe": "1wk",
+        "start": "2020-07-20",
+        "end": "2026-08-10",
+        "duration": 317,
+        "upper": 98.16315020142335,
+        "lower": 80.75481428287927,
+        "avg_volume": 7822009.832807571,
+        "volume_trend": 0.001545,
+        "width_atr": 12.58,
+        "slope_atr": 0.0158,
+        "num_sh": 20,
+        "num_sl": 18
+      },
+      "price_pos_in_tr": 1.181341255601465,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.7461
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.564
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.5842
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1641
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-28",
+          "probability": 0.0531
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.2172
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-28",
+          "probability": 0.0316
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.7525
+      },
+      "springboard_score": 0.4786,
+      "transition_score": 0.6584,
+      "transition_direction": "bullish",
+      "composite_score": 0.6584,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.75",
+        "近期UT p=0.58",
+        "→markup(1周前)看涨"
+      ]
+    }
+  ],
+  "bearish_warnings": [
+    {
+      "ticker": "ANET",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "ANET",
+        "timeframe": "1wk",
+        "start": "2024-01-08",
+        "end": "2026-08-10",
+        "duration": 136,
+        "upper": 133.5749969482422,
+        "lower": 92.0999984741211,
+        "avg_volume": 43511829.36029412,
+        "volume_trend": -0.000857,
+        "width_atr": 14.622,
+        "slope_atr": 0.0705,
+        "num_sh": 7,
+        "num_sl": 7
+      },
+      "price_pos_in_tr": 2.688848722023483,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.5232
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-10",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.6731
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.6828
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-05",
+          "probability": 1.0
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.3604,
+      "transition_score": 0.9424,
+      "transition_direction": "bearish",
+      "composite_score": 0.9424,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=0.68",
+        "近期BC p=1.00",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "FSLR",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "FSLR",
+        "timeframe": "1wk",
+        "start": "2023-02-27",
+        "end": "2026-08-10",
+        "duration": 181,
+        "upper": 262.7200012207031,
+        "lower": 170.5500030517578,
+        "avg_volume": 12832871.972375691,
+        "volume_trend": 0.000745,
+        "width_atr": 9.709,
+        "slope_atr": 0.0124,
+        "num_sh": 9,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 0.5765433486528245,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-08-07",
+          "probability": 1.0
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-07",
+          "probability": 0.3548
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.9424,
+      "transition_direction": "bearish",
+      "composite_score": 0.9424,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=1.00",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "IDXX",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.94,
+      "phase_confidence": 0.9806,
+      "active_tr": {
+        "ticker": "IDXX",
+        "timeframe": "1wk",
+        "start": "2020-07-20",
+        "end": "2026-08-10",
+        "duration": 317,
+        "upper": 562.8299865722656,
+        "lower": 447.55999755859375,
+        "avg_volume": 2483309.1987381703,
+        "volume_trend": 0.001282,
+        "width_atr": 14.182,
+        "slope_atr": 0.0085,
+        "num_sh": 18,
+        "num_sl": 21
+      },
+      "price_pos_in_tr": 1.0355687212135445,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0419
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0397
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-04",
+          "probability": 0.9943
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-10",
+          "probability": 0.0721
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-15",
+          "probability": 0.2366
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-17",
+          "probability": 0.0148
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-27",
+          "probability": 0.1564
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-28",
+          "probability": 0.0148
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-10",
+          "probability": 0.0245
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-15",
+          "probability": 0.3303
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-17",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-27",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-28",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.94
+      },
+      "springboard_score": 0.52,
+      "transition_score": 0.94,
+      "transition_direction": "bearish",
+      "composite_score": 0.94,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.99",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "SOLV",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8454,
+      "phase_confidence": 0.9531,
+      "active_tr": {
+        "ticker": "SOLV",
+        "timeframe": "1wk",
+        "start": "2024-03-25",
+        "end": "2026-08-10",
+        "duration": 125,
+        "upper": 81.13999938964844,
+        "lower": 62.380001068115234,
+        "avg_volume": 6359399.048,
+        "volume_trend": -0.003018,
+        "width_atr": 9.768,
+        "slope_atr": 0.028,
+        "num_sh": 6,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 1.2835820986571085,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.7779
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0574
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-06",
+          "probability": 0.7833
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0214
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.8454
+      },
+      "springboard_score": 0.42,
+      "transition_score": 0.8454,
+      "transition_direction": "bearish",
+      "composite_score": 0.8454,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.78",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "PH",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.84,
+      "phase_confidence": 0.9516,
+      "active_tr": {
+        "ticker": "PH",
+        "timeframe": "1wk",
+        "start": "2025-12-08",
+        "end": "2026-08-10",
+        "duration": 36,
+        "upper": 1026.6794224054456,
+        "lower": 835.8967001222225,
+        "avg_volume": 3348249.5555555555,
+        "volume_trend": 0.002621,
+        "width_atr": 5.573,
+        "slope_atr": 0.0372,
+        "num_sh": 3,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 1.1687289725531536,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-06",
+          "probability": 0.772
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.84
+      },
+      "springboard_score": 0.56,
+      "transition_score": 0.84,
+      "transition_direction": "bearish",
+      "composite_score": 0.84,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.77",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "CARR",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "CARR",
+        "timeframe": "1wk",
+        "start": "2024-04-29",
+        "end": "2026-08-10",
+        "duration": 120,
+        "upper": 71.54412061631648,
+        "lower": 53.22873538655004,
+        "avg_volume": 26656119.691666666,
+        "volume_trend": 0.005781,
+        "width_atr": 7.83,
+        "slope_atr": 0.0146,
+        "num_sh": 8,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 0.552609893846067,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-28",
+          "probability": 1.0
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.8246,
+      "transition_direction": "bearish",
+      "composite_score": 0.8246,
+      "tags": [
+        "阶段=distribution",
+        "近期BC p=1.00",
+        "→distribution(1周前)看跌"
+      ]
+    },
+    {
+      "ticker": "TSN",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9389,
+      "phase_confidence": 0.9803,
+      "active_tr": {
+        "ticker": "TSN",
+        "timeframe": "1wk",
+        "start": "2024-02-19",
+        "end": "2026-08-10",
+        "duration": 130,
+        "upper": 61.90043401871226,
+        "lower": 51.702925029001634,
+        "avg_volume": 13080938.107692307,
+        "volume_trend": 0.002541,
+        "width_atr": 8.368,
+        "slope_atr": 0.0181,
+        "num_sh": 8,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 0.4596293433402316,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-28",
+          "probability": 0.9918
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-28",
+          "probability": 0.3548
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.9389
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.8215,
+      "transition_direction": "bearish",
+      "composite_score": 0.8215,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.99",
+        "→distribution(1周前)看跌"
+      ]
+    },
+    {
+      "ticker": "DGX",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9291,
+      "phase_confidence": 0.9773,
+      "active_tr": {
+        "ticker": "DGX",
+        "timeframe": "1wk",
+        "start": "2025-09-22",
+        "end": "2026-08-10",
+        "duration": 47,
+        "upper": 208.94047660107054,
+        "lower": 172.08399704242035,
+        "avg_volume": 4738114.319148936,
+        "volume_trend": -0.003964,
+        "width_atr": 7.405,
+        "slope_atr": 0.0977,
+        "num_sh": 3,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.7352714369243665,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.3415
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-23",
+          "probability": 0.9685
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.0025
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-09",
+          "probability": 0.1667
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-10",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0184
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-09",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-10",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9291
+      },
+      "springboard_score": 0.36,
+      "transition_score": 0.6968,
+      "transition_direction": "bearish",
+      "composite_score": 0.6968,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.97",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.6963,
+      "phase_confidence": 0.917,
+      "active_tr": {
+        "ticker": "IBM",
+        "timeframe": "1wk",
+        "start": "2024-08-19",
+        "end": "2026-08-10",
+        "duration": 104,
+        "upper": 286.7173412075351,
+        "lower": 208.5579105044372,
+        "avg_volume": 27114326.721153848,
+        "volume_trend": 0.009792,
+        "width_atr": 10.133,
+        "slope_atr": 0.038,
+        "num_sh": 7,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 0.3656895735817887,
+      "recent_bull_events": [
+        {
+          "event_type": "Spring",
+          "date": "2026-07-16",
+          "probability": 0.9414
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-20",
+          "probability": 0.6896
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-21",
+          "probability": 0.5993
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-22",
+          "probability": 0.0104
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.0614
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-01",
+          "probability": 0.1636
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-08",
+          "probability": 0.0031
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.8858
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-01",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-08",
+          "probability": 0.0112
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.885
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.6963
+      },
+      "springboard_score": 0.3117,
+      "transition_score": 0.6963,
+      "transition_direction": "bearish",
+      "composite_score": 0.6963,
+      "tags": [
+        "阶段=distribution",
+        "近期Spring p=0.94",
+        "近期UT p=0.89",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "WRB",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9193,
+      "phase_confidence": 0.9743,
+      "active_tr": {
+        "ticker": "WRB",
+        "timeframe": "1wk",
+        "start": "2025-03-24",
+        "end": "2026-08-10",
+        "duration": 73,
+        "upper": 73.27347239434752,
+        "lower": 63.706012069109484,
+        "avg_volume": 10845586.424657535,
+        "volume_trend": 0.000789,
+        "width_atr": 5.311,
+        "slope_atr": 0.0034,
+        "num_sh": 4,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 0.7069785420223682,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-24",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1301
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-21",
+          "probability": 0.9458
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-08-06",
+          "probability": 0.9392
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-21",
+          "probability": 0.3548
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-29",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-06",
+          "probability": 0.3327
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9193
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.6895,
+      "transition_direction": "bearish",
+      "composite_score": 0.6895,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.95",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9165,
+      "phase_confidence": 0.9734,
+      "active_tr": {
+        "ticker": "HAL",
+        "timeframe": "1wk",
+        "start": "2022-02-14",
+        "end": "2026-08-10",
+        "duration": 235,
+        "upper": 35.48542512726405,
+        "lower": 25.988057747406174,
+        "avg_volume": 51130078.09361702,
+        "volume_trend": 0.001494,
+        "width_atr": 10.849,
+        "slope_atr": 0.0068,
+        "num_sh": 16,
+        "num_sl": 12
+      },
+      "price_pos_in_tr": 0.7214570239446978,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.154
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-14",
+          "probability": 0.1712
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-15",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.1775
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-20",
+          "probability": 0.9392
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-14",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-15",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-20",
+          "probability": 0.3291
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9165
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.6874,
+      "transition_direction": "bearish",
+      "composite_score": 0.6874,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.94",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "AMP",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8983,
+      "phase_confidence": 0.968,
+      "active_tr": {
+        "ticker": "AMP",
+        "timeframe": "1wk",
+        "start": "2024-02-19",
+        "end": "2026-08-10",
+        "duration": 130,
+        "upper": 528.2879098487391,
+        "lower": 419.522430989983,
+        "avg_volume": 2602987.3846153845,
+        "volume_trend": 0.003326,
+        "width_atr": 8.038,
+        "slope_atr": 0.0192,
+        "num_sh": 8,
+        "num_sl": 7
+      },
+      "price_pos_in_tr": 1.3897567801093664,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0561
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-15",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-20",
+          "probability": 0.1709
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-22",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-23",
+          "probability": 0.8977
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-15",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-20",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-22",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-23",
+          "probability": 0.3117
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.8983
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.6737,
+      "transition_direction": "bearish",
+      "composite_score": 0.6737,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.90",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "RTX",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8941,
+      "phase_confidence": 0.9668,
+      "active_tr": {
+        "ticker": "RTX",
+        "timeframe": "1wk",
+        "start": "2025-08-04",
+        "end": "2026-08-10",
+        "duration": 54,
+        "upper": 196.4309601284907,
+        "lower": 165.4986462036676,
+        "avg_volume": 24723862.203703705,
+        "volume_trend": 0.004186,
+        "width_atr": 9.071,
+        "slope_atr": 0.1036,
+        "num_sh": 2,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.777472893152977,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.9613
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.8055
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.0148
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-10",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1634
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-14",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.1716
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-17",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-20",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-21",
+          "probability": 0.1572
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-22",
+          "probability": 0.8883
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-10",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-14",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-17",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-20",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-21",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-22",
+          "probability": 0.3088
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.8941
+      },
+      "springboard_score": 0.4305,
+      "transition_score": 0.6706,
+      "transition_direction": "bearish",
+      "composite_score": 0.6706,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期UT p=0.89",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "GL",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.893,
+      "phase_confidence": 0.9665,
+      "active_tr": {
+        "ticker": "GL",
+        "timeframe": "1wk",
+        "start": "2025-07-28",
+        "end": "2026-08-10",
+        "duration": 55,
+        "upper": 146.64130860771695,
+        "lower": 134.68049903654486,
+        "avg_volume": 2741725.381818182,
+        "volume_trend": 0.001086,
+        "width_atr": 10.145,
+        "slope_atr": 0.1285,
+        "num_sh": 3,
+        "num_sl": 4
+      },
+      "price_pos_in_tr": 3.8450155784809255,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-10",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.8944
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-23",
+          "probability": 0.8859
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.893
+      },
+      "springboard_score": 0.3104,
+      "transition_score": 0.6698,
+      "transition_direction": "bearish",
+      "composite_score": 0.6698,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=0.89",
+        "近期BC p=0.89",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "LUV",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8451,
+      "phase_confidence": 0.953,
+      "active_tr": {
+        "ticker": "LUV",
+        "timeframe": "1wk",
+        "start": "2018-01-01",
+        "end": "2026-08-10",
+        "duration": 450,
+        "upper": 45.20470932711943,
+        "lower": 32.79467563659657,
+        "avg_volume": 38404945.40222222,
+        "volume_trend": 0.000945,
+        "width_atr": 14.585,
+        "slope_atr": 0.0164,
+        "num_sh": 28,
+        "num_sl": 24
+      },
+      "price_pos_in_tr": 0.973029050236159,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-01",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-08",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-14",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.4522
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-30",
+          "probability": 0.0048
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-24",
+          "probability": 0.7825
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-27",
+          "probability": 0.0738
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-30",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-21",
+          "probability": 0.0316
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-24",
+          "probability": 0.2645
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-27",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-30",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-06",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.8451
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.6338,
+      "transition_direction": "bearish",
+      "composite_score": 0.6338,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.78",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "CB",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8414,
+      "phase_confidence": 0.952,
+      "active_tr": {
+        "ticker": "CB",
+        "timeframe": "1wk",
+        "start": "2025-03-31",
+        "end": "2026-08-10",
+        "duration": 72,
+        "upper": 304.0319847033466,
+        "lower": 279.2545426735619,
+        "avg_volume": 8492890.5,
+        "volume_trend": -0.000562,
+        "width_atr": 8.944,
+        "slope_atr": 0.0962,
+        "num_sh": 3,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 2.633260416793921,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-01",
+          "probability": 0.863
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-08",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-14",
+          "probability": 0.5756
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-20",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-24",
+          "probability": 0.6042
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-30",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-05",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-22",
+          "probability": 0.775
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.8414
+      },
+      "springboard_score": 0.2533,
+      "transition_score": 0.631,
+      "transition_direction": "bearish",
+      "composite_score": 0.631,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=0.86",
+        "近期BC p=0.78",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "WFC",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "WFC",
+        "timeframe": "1wk",
+        "start": "2024-04-15",
+        "end": "2026-08-10",
+        "duration": 122,
+        "upper": 78.8621974037549,
+        "lower": 72.36453901391667,
+        "avg_volume": 80322054.8442623,
+        "volume_trend": -0.001248,
+        "width_atr": 11.099,
+        "slope_atr": 0.0657,
+        "num_sh": 7,
+        "num_sl": 7
+      },
+      "price_pos_in_tr": 2.423251678029027,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-10",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.7416
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.4531
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-14",
+          "probability": 1.0
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-20",
+        "bars_ago": 3,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.2083,
+      "transition_score": 0.589,
+      "transition_direction": "bearish",
+      "composite_score": 0.589,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=0.74",
+        "近期BC p=1.00",
+        "→distribution(3周前)看跌"
+      ]
+    },
+    {
+      "ticker": "CPAY",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8529,
+      "phase_confidence": 0.9551,
+      "active_tr": {
+        "ticker": "CPAY",
+        "timeframe": "1wk",
+        "start": "2024-11-04",
+        "end": "2026-08-10",
+        "duration": 93,
+        "upper": 364.7099914550781,
+        "lower": 288.82000732421875,
+        "avg_volume": 2633406.7634408604,
+        "volume_trend": 0.004251,
+        "width_atr": 7.437,
+        "slope_atr": 0.0068,
+        "num_sh": 6,
+        "num_sl": 7
+      },
+      "price_pos_in_tr": 1.7976019427665604,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0569
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-24",
+          "probability": 0.0544
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-30",
+          "probability": 0.8306
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-05",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-15",
+          "probability": 0.1737
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-20",
+          "probability": 0.0039
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-15",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-20",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-06-29",
+        "bars_ago": 6,
+        "probability": 0.8529
+      },
+      "springboard_score": 0.54,
+      "transition_score": 0.2132,
+      "transition_direction": "bearish",
+      "composite_score": 0.54,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "→distribution(6周前)看跌"
+      ]
+    },
+    {
+      "ticker": "AFL",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.7458,
+      "phase_confidence": 0.928,
+      "active_tr": {
+        "ticker": "AFL",
+        "timeframe": "1wk",
+        "start": "2024-07-15",
+        "end": "2026-08-10",
+        "duration": 109,
+        "upper": 111.55541383283321,
+        "lower": 100.31151674123478,
+        "avg_volume": 10850561.266055046,
+        "volume_trend": 0.001003,
+        "width_atr": 9.984,
+        "slope_atr": 0.0403,
+        "num_sh": 6,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 1.8488680182265018,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.9651
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.8349
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.8767
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-06-22",
+        "bars_ago": 7,
+        "probability": 0.7458
+      },
+      "springboard_score": 0.5334,
+      "transition_score": 0.0932,
+      "transition_direction": "bearish",
+      "composite_score": 0.5334,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=0.97",
+        "→distribution(7周前)看跌"
+      ]
+    },
+    {
+      "ticker": "ECHO",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "ECHO",
+        "timeframe": "1wk",
+        "start": "2025-09-01",
+        "end": "2026-08-10",
+        "duration": 50,
+        "upper": 132.25,
+        "lower": 84.94499969482422,
+        "avg_volume": 29893476.02,
+        "volume_trend": 0.011857,
+        "width_atr": 8.292,
+        "slope_atr": 0.072,
+        "num_sh": 3,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 0.1423739682253985,
+      "recent_bull_events": [
+        {
+          "event_type": "Spring",
+          "date": "2026-07-28",
+          "probability": 0.8815
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-29",
+          "probability": 0.6503
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-31",
+          "probability": 0.8512
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-06-15",
+        "bars_ago": 8,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.5033,
+      "transition_score": 0.0,
+      "transition_direction": "bearish",
+      "composite_score": 0.5033,
+      "tags": [
+        "阶段=distribution",
+        "近期Spring p=0.88",
+        "→distribution(8周前)看跌"
+      ]
+    }
+  ],
+  "fresh_transitions": [
+    {
+      "ticker": "ANET",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "ANET",
+        "timeframe": "1wk",
+        "start": "2024-01-08",
+        "end": "2026-08-10",
+        "duration": 136,
+        "upper": 133.5749969482422,
+        "lower": 92.0999984741211,
+        "avg_volume": 43511829.36029412,
+        "volume_trend": -0.000857,
+        "width_atr": 14.622,
+        "slope_atr": 0.0705,
+        "num_sh": 7,
+        "num_sl": 7
+      },
+      "price_pos_in_tr": 2.688848722023483,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.5232
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-10",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.6731
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.6828
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-05",
+          "probability": 1.0
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.3604,
+      "transition_score": 0.9424,
+      "transition_direction": "bearish",
+      "composite_score": 0.9424,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=0.68",
+        "近期BC p=1.00",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "FSLR",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "FSLR",
+        "timeframe": "1wk",
+        "start": "2023-02-27",
+        "end": "2026-08-10",
+        "duration": 181,
+        "upper": 262.7200012207031,
+        "lower": 170.5500030517578,
+        "avg_volume": 12832871.972375691,
+        "volume_trend": 0.000745,
+        "width_atr": 9.709,
+        "slope_atr": 0.0124,
+        "num_sh": 9,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 0.5765433486528245,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-08-07",
+          "probability": 1.0
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-07",
+          "probability": 0.3548
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.9424,
+      "transition_direction": "bearish",
+      "composite_score": 0.9424,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=1.00",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "IDXX",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.94,
+      "phase_confidence": 0.9806,
+      "active_tr": {
+        "ticker": "IDXX",
+        "timeframe": "1wk",
+        "start": "2020-07-20",
+        "end": "2026-08-10",
+        "duration": 317,
+        "upper": 562.8299865722656,
+        "lower": 447.55999755859375,
+        "avg_volume": 2483309.1987381703,
+        "volume_trend": 0.001282,
+        "width_atr": 14.182,
+        "slope_atr": 0.0085,
+        "num_sh": 18,
+        "num_sl": 21
+      },
+      "price_pos_in_tr": 1.0355687212135445,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0419
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0397
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-04",
+          "probability": 0.9943
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-10",
+          "probability": 0.0721
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-15",
+          "probability": 0.2366
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-17",
+          "probability": 0.0148
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-27",
+          "probability": 0.1564
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-28",
+          "probability": 0.0148
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-10",
+          "probability": 0.0245
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-15",
+          "probability": 0.3303
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-17",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-27",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-28",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.94
+      },
+      "springboard_score": 0.52,
+      "transition_score": 0.94,
+      "transition_direction": "bearish",
+      "composite_score": 0.94,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.99",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "ZBRA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "ZBRA",
+        "timeframe": "1wk",
+        "start": "2023-10-09",
+        "end": "2026-08-10",
+        "duration": 149,
+        "upper": 328.70001220703125,
+        "lower": 227.19000244140625,
+        "avg_volume": 2696380.362416107,
+        "volume_trend": 0.007023,
+        "width_atr": 11.182,
+        "slope_atr": 0.0105,
+        "num_sh": 9,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 1.5017238476616521,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9148
+      },
+      "springboard_score": 0.67,
+      "transition_score": 0.9148,
+      "transition_direction": "bullish",
+      "composite_score": 0.9148,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "ULTA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.913,
+      "phase_confidence": 0.982,
+      "active_tr": {
+        "ticker": "ULTA",
+        "timeframe": "1wk",
+        "start": "2022-11-28",
+        "end": "2026-08-10",
+        "duration": 194,
+        "upper": 497.4100036621094,
+        "lower": 402.0,
+        "avg_volume": 3954757.381443299,
+        "volume_trend": -0.00037,
+        "width_atr": 14.324,
+        "slope_atr": 0.0145,
+        "num_sh": 11,
+        "num_sl": 11
+      },
+      "price_pos_in_tr": 1.1903364737980966,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.0315
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.997
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.46
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.913
+      },
+      "springboard_score": 0.6487,
+      "transition_score": 0.913,
+      "transition_direction": "bullish",
+      "composite_score": 0.913,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "NWSA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 1.0,
+      "phase_confidence": 1.0,
+      "active_tr": {
+        "ticker": "NWSA",
+        "timeframe": "1wk",
+        "start": "2020-11-30",
+        "end": "2026-08-10",
+        "duration": 298,
+        "upper": 26.736726964252476,
+        "lower": 20.248262154806795,
+        "avg_volume": 15104849.147651007,
+        "volume_trend": 0.001137,
+        "width_atr": 13.428,
+        "slope_atr": 0.0237,
+        "num_sh": 21,
+        "num_sl": 18
+      },
+      "price_pos_in_tr": 1.339567776740916,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0048
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0593
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.7634
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1566
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-21",
+          "probability": 0.0217
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 1.0
+      },
+      "springboard_score": 0.71,
+      "transition_score": 0.875,
+      "transition_direction": "bullish",
+      "composite_score": 0.875,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "BMY",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 1.0,
+      "phase_confidence": 1.0,
+      "active_tr": {
+        "ticker": "BMY",
+        "timeframe": "1wk",
+        "start": "2022-04-04",
+        "end": "2026-08-10",
+        "duration": 228,
+        "upper": 57.644535124695096,
+        "lower": 46.102487234674086,
+        "avg_volume": 59777190.40789474,
+        "volume_trend": 0.001224,
+        "width_atr": 12.712,
+        "slope_atr": 0.0167,
+        "num_sh": 14,
+        "num_sl": 12
+      },
+      "price_pos_in_tr": 1.6069517704254699,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0569
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.4294
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1411
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-09",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1325
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-09",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.2298
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 1.0
+      },
+      "springboard_score": 0.67,
+      "transition_score": 0.875,
+      "transition_direction": "bullish",
+      "composite_score": 0.875,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "SOLV",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8454,
+      "phase_confidence": 0.9531,
+      "active_tr": {
+        "ticker": "SOLV",
+        "timeframe": "1wk",
+        "start": "2024-03-25",
+        "end": "2026-08-10",
+        "duration": 125,
+        "upper": 81.13999938964844,
+        "lower": 62.380001068115234,
+        "avg_volume": 6359399.048,
+        "volume_trend": -0.003018,
+        "width_atr": 9.768,
+        "slope_atr": 0.028,
+        "num_sh": 6,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 1.2835820986571085,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.7779
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0574
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-06",
+          "probability": 0.7833
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0214
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.8454
+      },
+      "springboard_score": 0.42,
+      "transition_score": 0.8454,
+      "transition_direction": "bearish",
+      "composite_score": 0.8454,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.78",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "PH",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.84,
+      "phase_confidence": 0.9516,
+      "active_tr": {
+        "ticker": "PH",
+        "timeframe": "1wk",
+        "start": "2025-12-08",
+        "end": "2026-08-10",
+        "duration": 36,
+        "upper": 1026.6794224054456,
+        "lower": 835.8967001222225,
+        "avg_volume": 3348249.5555555555,
+        "volume_trend": 0.002621,
+        "width_atr": 5.573,
+        "slope_atr": 0.0372,
+        "num_sh": 3,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 1.1687289725531536,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-06",
+          "probability": 0.772
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.84
+      },
+      "springboard_score": 0.56,
+      "transition_score": 0.84,
+      "transition_direction": "bearish",
+      "composite_score": 0.84,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.77",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "CARR",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "CARR",
+        "timeframe": "1wk",
+        "start": "2024-04-29",
+        "end": "2026-08-10",
+        "duration": 120,
+        "upper": 71.54412061631648,
+        "lower": 53.22873538655004,
+        "avg_volume": 26656119.691666666,
+        "volume_trend": 0.005781,
+        "width_atr": 7.83,
+        "slope_atr": 0.0146,
+        "num_sh": 8,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 0.552609893846067,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-28",
+          "probability": 1.0
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.8246,
+      "transition_direction": "bearish",
+      "composite_score": 0.8246,
+      "tags": [
+        "阶段=distribution",
+        "近期BC p=1.00",
+        "→distribution(1周前)看跌"
+      ]
+    },
+    {
+      "ticker": "TSN",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9389,
+      "phase_confidence": 0.9803,
+      "active_tr": {
+        "ticker": "TSN",
+        "timeframe": "1wk",
+        "start": "2024-02-19",
+        "end": "2026-08-10",
+        "duration": 130,
+        "upper": 61.90043401871226,
+        "lower": 51.702925029001634,
+        "avg_volume": 13080938.107692307,
+        "volume_trend": 0.002541,
+        "width_atr": 8.368,
+        "slope_atr": 0.0181,
+        "num_sh": 8,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 0.4596293433402316,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-28",
+          "probability": 0.9918
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-28",
+          "probability": 0.3548
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.9389
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.8215,
+      "transition_direction": "bearish",
+      "composite_score": 0.8215,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.99",
+        "→distribution(1周前)看跌"
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7836,
+      "phase_confidence": 0.9567,
+      "active_tr": {
+        "ticker": "PFE",
+        "timeframe": "1wk",
+        "start": "2024-04-22",
+        "end": "2026-08-10",
+        "duration": 121,
+        "upper": 25.737041201336844,
+        "lower": 22.0346598968543,
+        "avg_volume": 213787495.43801653,
+        "volume_trend": 0.002099,
+        "width_atr": 7.62,
+        "slope_atr": 0.0091,
+        "num_sh": 10,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 1.2871011784866027,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.7928
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7836
+      },
+      "springboard_score": 0.6064,
+      "transition_score": 0.7836,
+      "transition_direction": "bullish",
+      "composite_score": 0.7836,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.79",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7809,
+      "phase_confidence": 0.9562,
+      "active_tr": {
+        "ticker": "GPN",
+        "timeframe": "1wk",
+        "start": "2025-04-14",
+        "end": "2026-08-10",
+        "duration": 70,
+        "upper": 85.7518550099046,
+        "lower": 64.86737245395781,
+        "avg_volume": 15174864.942857143,
+        "volume_trend": 0.003527,
+        "width_atr": 5.579,
+        "slope_atr": 0.0137,
+        "num_sh": 4,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 1.4346838279009748,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0546
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.7887
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-29",
+          "probability": 0.0034
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-29",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7809
+      },
+      "springboard_score": 0.5728,
+      "transition_score": 0.7809,
+      "transition_direction": "bullish",
+      "composite_score": 0.7809,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.79",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "EMR",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8779,
+      "phase_confidence": 0.9749,
+      "active_tr": {
+        "ticker": "EMR",
+        "timeframe": "1wk",
+        "start": "2024-11-25",
+        "end": "2026-08-10",
+        "duration": 90,
+        "upper": 148.36655076195996,
+        "lower": 121.93810185533471,
+        "avg_volume": 14490377.711111112,
+        "volume_trend": -0.000163,
+        "width_atr": 10.586,
+        "slope_atr": 0.0515,
+        "num_sh": 6,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 1.5994848962905082,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0496
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.5412
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.8225
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-24",
+          "probability": 0.2489
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-27",
+          "probability": 0.0222
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-24",
+          "probability": 0.3509
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-27",
+          "probability": 0.0313
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8779
+      },
+      "springboard_score": 0.6213,
+      "transition_score": 0.7682,
+      "transition_direction": "bullish",
+      "composite_score": 0.7682,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.82",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "FOX",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7642,
+      "phase_confidence": 0.9531,
+      "active_tr": {
+        "ticker": "FOX",
+        "timeframe": "1wk",
+        "start": "2024-12-16",
+        "end": "2026-08-10",
+        "duration": 87,
+        "upper": 54.430598012956665,
+        "lower": 45.99935860444745,
+        "avg_volume": 7131879.850574712,
+        "volume_trend": 0.004554,
+        "width_atr": 8.363,
+        "slope_atr": 0.0385,
+        "num_sh": 5,
+        "num_sl": 4
+      },
+      "price_pos_in_tr": 1.4352148341869042,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.7636
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7642
+      },
+      "springboard_score": 0.5918,
+      "transition_score": 0.7642,
+      "transition_direction": "bullish",
+      "composite_score": 0.7642,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.76",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8645,
+      "phase_confidence": 0.9723,
+      "active_tr": {
+        "ticker": "EXPE",
+        "timeframe": "1wk",
+        "start": "2025-10-06",
+        "end": "2026-08-10",
+        "duration": 45,
+        "upper": 290.83368759793234,
+        "lower": 205.91281810670506,
+        "avg_volume": 9834427.577777777,
+        "volume_trend": -0.008456,
+        "width_atr": 6.372,
+        "slope_atr": 0.0216,
+        "num_sh": 2,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.4413085992311099,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.4263
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.8038
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8645
+      },
+      "springboard_score": 0.5637,
+      "transition_score": 0.7564,
+      "transition_direction": "bullish",
+      "composite_score": 0.7564,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.80",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "F",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8254,
+      "phase_confidence": 0.9646,
+      "active_tr": {
+        "ticker": "F",
+        "timeframe": "1wk",
+        "start": "2025-08-04",
+        "end": "2026-08-10",
+        "duration": 54,
+        "upper": 14.45917047209817,
+        "lower": 11.966251980922639,
+        "avg_volume": 317257341.8518519,
+        "volume_trend": -0.008255,
+        "width_atr": 10.295,
+        "slope_atr": 0.0744,
+        "num_sh": 3,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 0.771685223247301,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.857
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-22",
+          "probability": 0.8984
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-30",
+          "probability": 0.0506
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-22",
+          "probability": 0.321
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-30",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8254
+      },
+      "springboard_score": 0.5414,
+      "transition_score": 0.7222,
+      "transition_direction": "bullish",
+      "composite_score": 0.7222,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.86",
+        "近期UT p=0.90",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8217,
+      "phase_confidence": 0.9639,
+      "active_tr": {
+        "ticker": "BRK-B",
+        "timeframe": "1wk",
+        "start": "2024-02-26",
+        "end": "2026-08-10",
+        "duration": 129,
+        "upper": 507.6600036621094,
+        "lower": 458.64500427246094,
+        "avg_volume": 21269456.93023256,
+        "volume_trend": 0.002689,
+        "width_atr": 9.367,
+        "slope_atr": 0.0431,
+        "num_sh": 7,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 0.9851063756927783,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.8512
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.5242
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0447
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8217
+      },
+      "springboard_score": 0.5179,
+      "transition_score": 0.719,
+      "transition_direction": "bullish",
+      "composite_score": 0.719,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.85",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "HIG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9518,
+      "phase_confidence": 0.9899,
+      "active_tr": {
+        "ticker": "HIG",
+        "timeframe": "1wk",
+        "start": "2024-07-22",
+        "end": "2026-08-10",
+        "duration": 108,
+        "upper": 133.3723368579936,
+        "lower": 118.1425681458559,
+        "avg_volume": 7601749.962962963,
+        "volume_trend": 0.000393,
+        "width_atr": 9.726,
+        "slope_atr": 0.0641,
+        "num_sh": 7,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 1.2913807021286854,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0451
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.745
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.9286
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9518
+      },
+      "springboard_score": 0.5257,
+      "transition_score": 0.7138,
+      "transition_direction": "bullish",
+      "composite_score": 0.7138,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.93",
+        "→markup(2周前)看涨"
+      ]
+    },
+    {
+      "ticker": "WAB",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "WAB",
+        "timeframe": "1wk",
+        "start": "2026-01-19",
+        "end": "2026-08-10",
+        "duration": 30,
+        "upper": 270.72567517429604,
+        "lower": 241.8335842851485,
+        "avg_volume": 4562551.766666667,
+        "volume_trend": 0.003442,
+        "width_atr": 6.37,
+        "slope_atr": 0.126,
+        "num_sh": 2,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 1.9433147610050392,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.7158
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.9466
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9148
+      },
+      "springboard_score": 0.7022,
+      "transition_score": 0.6861,
+      "transition_direction": "bullish",
+      "composite_score": 0.7022,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(2周前)看涨"
+      ]
+    },
+    {
+      "ticker": "DGX",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9291,
+      "phase_confidence": 0.9773,
+      "active_tr": {
+        "ticker": "DGX",
+        "timeframe": "1wk",
+        "start": "2025-09-22",
+        "end": "2026-08-10",
+        "duration": 47,
+        "upper": 208.94047660107054,
+        "lower": 172.08399704242035,
+        "avg_volume": 4738114.319148936,
+        "volume_trend": -0.003964,
+        "width_atr": 7.405,
+        "slope_atr": 0.0977,
+        "num_sh": 3,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.7352714369243665,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.3415
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-23",
+          "probability": 0.9685
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.0025
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-09",
+          "probability": 0.1667
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-10",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0184
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-09",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-10",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9291
+      },
+      "springboard_score": 0.36,
+      "transition_score": 0.6968,
+      "transition_direction": "bearish",
+      "composite_score": 0.6968,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.97",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "IBM",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.6963,
+      "phase_confidence": 0.917,
+      "active_tr": {
+        "ticker": "IBM",
+        "timeframe": "1wk",
+        "start": "2024-08-19",
+        "end": "2026-08-10",
+        "duration": 104,
+        "upper": 286.7173412075351,
+        "lower": 208.5579105044372,
+        "avg_volume": 27114326.721153848,
+        "volume_trend": 0.009792,
+        "width_atr": 10.133,
+        "slope_atr": 0.038,
+        "num_sh": 7,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 0.3656895735817887,
+      "recent_bull_events": [
+        {
+          "event_type": "Spring",
+          "date": "2026-07-16",
+          "probability": 0.9414
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-20",
+          "probability": 0.6896
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-21",
+          "probability": 0.5993
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-22",
+          "probability": 0.0104
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.0614
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-01",
+          "probability": 0.1636
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-08",
+          "probability": 0.0031
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.8858
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-01",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-08",
+          "probability": 0.0112
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.885
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.6963
+      },
+      "springboard_score": 0.3117,
+      "transition_score": 0.6963,
+      "transition_direction": "bearish",
+      "composite_score": 0.6963,
+      "tags": [
+        "阶段=distribution",
+        "近期Spring p=0.94",
+        "近期UT p=0.89",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "WRB",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9193,
+      "phase_confidence": 0.9743,
+      "active_tr": {
+        "ticker": "WRB",
+        "timeframe": "1wk",
+        "start": "2025-03-24",
+        "end": "2026-08-10",
+        "duration": 73,
+        "upper": 73.27347239434752,
+        "lower": 63.706012069109484,
+        "avg_volume": 10845586.424657535,
+        "volume_trend": 0.000789,
+        "width_atr": 5.311,
+        "slope_atr": 0.0034,
+        "num_sh": 4,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 0.7069785420223682,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-24",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1301
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-21",
+          "probability": 0.9458
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-08-06",
+          "probability": 0.9392
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-21",
+          "probability": 0.3548
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-29",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-06",
+          "probability": 0.3327
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9193
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.6895,
+      "transition_direction": "bearish",
+      "composite_score": 0.6895,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.95",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "HAL",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9165,
+      "phase_confidence": 0.9734,
+      "active_tr": {
+        "ticker": "HAL",
+        "timeframe": "1wk",
+        "start": "2022-02-14",
+        "end": "2026-08-10",
+        "duration": 235,
+        "upper": 35.48542512726405,
+        "lower": 25.988057747406174,
+        "avg_volume": 51130078.09361702,
+        "volume_trend": 0.001494,
+        "width_atr": 10.849,
+        "slope_atr": 0.0068,
+        "num_sh": 16,
+        "num_sl": 12
+      },
+      "price_pos_in_tr": 0.7214570239446978,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.154
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-14",
+          "probability": 0.1712
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-15",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.1775
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-20",
+          "probability": 0.9392
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-14",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-15",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-20",
+          "probability": 0.3291
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9165
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.6874,
+      "transition_direction": "bearish",
+      "composite_score": 0.6874,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.94",
+        "→distribution(2周前)看跌"
+      ]
+    },
+    {
+      "ticker": "GM",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.6834,
+      "phase_confidence": 0.9385,
+      "active_tr": {
+        "ticker": "GM",
+        "timeframe": "1wk",
+        "start": "2025-12-01",
+        "end": "2026-08-10",
+        "duration": 37,
+        "upper": 85.41000366210938,
+        "lower": 72.83256708347758,
+        "avg_volume": 37963238.81081081,
+        "volume_trend": -0.007357,
+        "width_atr": 4.734,
+        "slope_atr": 0.0127,
+        "num_sh": 3,
+        "num_sl": 4
+      },
+      "price_pos_in_tr": 1.0779169683275531,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.7532
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.0554
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.6834
+      },
+      "springboard_score": 0.4661,
+      "transition_score": 0.6834,
+      "transition_direction": "bullish",
+      "composite_score": 0.6834,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.75",
+        "→markup(0周前)看涨"
+      ]
+    }
+  ],
+  "top_overall": [
+    {
+      "ticker": "ANET",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "ANET",
+        "timeframe": "1wk",
+        "start": "2024-01-08",
+        "end": "2026-08-10",
+        "duration": 136,
+        "upper": 133.5749969482422,
+        "lower": 92.0999984741211,
+        "avg_volume": 43511829.36029412,
+        "volume_trend": -0.000857,
+        "width_atr": 14.622,
+        "slope_atr": 0.0705,
+        "num_sh": 7,
+        "num_sl": 7
+      },
+      "price_pos_in_tr": 2.688848722023483,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.5232
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-10",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.6731
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.6828
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-05",
+          "probability": 1.0
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.3604,
+      "transition_score": 0.9424,
+      "transition_direction": "bearish",
+      "composite_score": 0.9424,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=0.68",
+        "近期BC p=1.00",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "FSLR",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "FSLR",
+        "timeframe": "1wk",
+        "start": "2023-02-27",
+        "end": "2026-08-10",
+        "duration": 181,
+        "upper": 262.7200012207031,
+        "lower": 170.5500030517578,
+        "avg_volume": 12832871.972375691,
+        "volume_trend": 0.000745,
+        "width_atr": 9.709,
+        "slope_atr": 0.0124,
+        "num_sh": 9,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 0.5765433486528245,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-08-07",
+          "probability": 1.0
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-08-07",
+          "probability": 0.3548
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.9424,
+      "transition_direction": "bearish",
+      "composite_score": 0.9424,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=1.00",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "IDXX",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.94,
+      "phase_confidence": 0.9806,
+      "active_tr": {
+        "ticker": "IDXX",
+        "timeframe": "1wk",
+        "start": "2020-07-20",
+        "end": "2026-08-10",
+        "duration": 317,
+        "upper": 562.8299865722656,
+        "lower": 447.55999755859375,
+        "avg_volume": 2483309.1987381703,
+        "volume_trend": 0.001282,
+        "width_atr": 14.182,
+        "slope_atr": 0.0085,
+        "num_sh": 18,
+        "num_sl": 21
+      },
+      "price_pos_in_tr": 1.0355687212135445,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0419
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0397
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-04",
+          "probability": 0.9943
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-10",
+          "probability": 0.0721
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-15",
+          "probability": 0.2366
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-17",
+          "probability": 0.0148
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-27",
+          "probability": 0.1564
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-28",
+          "probability": 0.0148
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-10",
+          "probability": 0.0245
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-15",
+          "probability": 0.3303
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-17",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-27",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-28",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.94
+      },
+      "springboard_score": 0.52,
+      "transition_score": 0.94,
+      "transition_direction": "bearish",
+      "composite_score": 0.94,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.99",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "ZBRA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "ZBRA",
+        "timeframe": "1wk",
+        "start": "2023-10-09",
+        "end": "2026-08-10",
+        "duration": 149,
+        "upper": 328.70001220703125,
+        "lower": 227.19000244140625,
+        "avg_volume": 2696380.362416107,
+        "volume_trend": 0.007023,
+        "width_atr": 11.182,
+        "slope_atr": 0.0105,
+        "num_sh": 9,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 1.5017238476616521,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.9148
+      },
+      "springboard_score": 0.67,
+      "transition_score": 0.9148,
+      "transition_direction": "bullish",
+      "composite_score": 0.9148,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "ULTA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.913,
+      "phase_confidence": 0.982,
+      "active_tr": {
+        "ticker": "ULTA",
+        "timeframe": "1wk",
+        "start": "2022-11-28",
+        "end": "2026-08-10",
+        "duration": 194,
+        "upper": 497.4100036621094,
+        "lower": 402.0,
+        "avg_volume": 3954757.381443299,
+        "volume_trend": -0.00037,
+        "width_atr": 14.324,
+        "slope_atr": 0.0145,
+        "num_sh": 11,
+        "num_sl": 11
+      },
+      "price_pos_in_tr": 1.1903364737980966,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.0315
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.997
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.46
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.913
+      },
+      "springboard_score": 0.6487,
+      "transition_score": 0.913,
+      "transition_direction": "bullish",
+      "composite_score": 0.913,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "NWSA",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 1.0,
+      "phase_confidence": 1.0,
+      "active_tr": {
+        "ticker": "NWSA",
+        "timeframe": "1wk",
+        "start": "2020-11-30",
+        "end": "2026-08-10",
+        "duration": 298,
+        "upper": 26.736726964252476,
+        "lower": 20.248262154806795,
+        "avg_volume": 15104849.147651007,
+        "volume_trend": 0.001137,
+        "width_atr": 13.428,
+        "slope_atr": 0.0237,
+        "num_sh": 21,
+        "num_sl": 18
+      },
+      "price_pos_in_tr": 1.339567776740916,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-07",
+          "probability": 0.0048
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0593
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.7634
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1566
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-21",
+          "probability": 0.0217
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 1.0
+      },
+      "springboard_score": 0.71,
+      "transition_score": 0.875,
+      "transition_direction": "bullish",
+      "composite_score": 0.875,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "BMY",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 1.0,
+      "phase_confidence": 1.0,
+      "active_tr": {
+        "ticker": "BMY",
+        "timeframe": "1wk",
+        "start": "2022-04-04",
+        "end": "2026-08-10",
+        "duration": 228,
+        "upper": 57.644535124695096,
+        "lower": 46.102487234674086,
+        "avg_volume": 59777190.40789474,
+        "volume_trend": 0.001224,
+        "width_atr": 12.712,
+        "slope_atr": 0.0167,
+        "num_sh": 14,
+        "num_sl": 12
+      },
+      "price_pos_in_tr": 1.6069517704254699,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-13",
+          "probability": 0.0569
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.4294
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1411
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-09",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1325
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-02",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-09",
+          "probability": 0.0396
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.2298
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 1.0
+      },
+      "springboard_score": 0.67,
+      "transition_score": 0.875,
+      "transition_direction": "bullish",
+      "composite_score": 0.875,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "SOLV",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.8454,
+      "phase_confidence": 0.9531,
+      "active_tr": {
+        "ticker": "SOLV",
+        "timeframe": "1wk",
+        "start": "2024-03-25",
+        "end": "2026-08-10",
+        "duration": 125,
+        "upper": 81.13999938964844,
+        "lower": 62.380001068115234,
+        "avg_volume": 6359399.048,
+        "volume_trend": -0.003018,
+        "width_atr": 9.768,
+        "slope_atr": 0.028,
+        "num_sh": 6,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 1.2835820986571085,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.7779
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0574
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-06",
+          "probability": 0.7833
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0214
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.8454
+      },
+      "springboard_score": 0.42,
+      "transition_score": 0.8454,
+      "transition_direction": "bearish",
+      "composite_score": 0.8454,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.78",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "PH",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.84,
+      "phase_confidence": 0.9516,
+      "active_tr": {
+        "ticker": "PH",
+        "timeframe": "1wk",
+        "start": "2025-12-08",
+        "end": "2026-08-10",
+        "duration": 36,
+        "upper": 1026.6794224054456,
+        "lower": 835.8967001222225,
+        "avg_volume": 3348249.5555555555,
+        "volume_trend": 0.002621,
+        "width_atr": 5.573,
+        "slope_atr": 0.0372,
+        "num_sh": 3,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 1.1687289725531536,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-08-06",
+          "probability": 0.772
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.84
+      },
+      "springboard_score": 0.56,
+      "transition_score": 0.84,
+      "transition_direction": "bearish",
+      "composite_score": 0.84,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.77",
+        "→distribution(0周前)看跌"
+      ]
+    },
+    {
+      "ticker": "CARR",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9424,
+      "phase_confidence": 0.9814,
+      "active_tr": {
+        "ticker": "CARR",
+        "timeframe": "1wk",
+        "start": "2024-04-29",
+        "end": "2026-08-10",
+        "duration": 120,
+        "upper": 71.54412061631648,
+        "lower": 53.22873538655004,
+        "avg_volume": 26656119.691666666,
+        "volume_trend": 0.005781,
+        "width_atr": 7.83,
+        "slope_atr": 0.0146,
+        "num_sh": 8,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 0.552609893846067,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-28",
+          "probability": 1.0
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.9424
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.8246,
+      "transition_direction": "bearish",
+      "composite_score": 0.8246,
+      "tags": [
+        "阶段=distribution",
+        "近期BC p=1.00",
+        "→distribution(1周前)看跌"
+      ]
+    },
+    {
+      "ticker": "TSN",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9389,
+      "phase_confidence": 0.9803,
+      "active_tr": {
+        "ticker": "TSN",
+        "timeframe": "1wk",
+        "start": "2024-02-19",
+        "end": "2026-08-10",
+        "duration": 130,
+        "upper": 61.90043401871226,
+        "lower": 51.702925029001634,
+        "avg_volume": 13080938.107692307,
+        "volume_trend": 0.002541,
+        "width_atr": 8.368,
+        "slope_atr": 0.0181,
+        "num_sh": 8,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 0.4596293433402316,
+      "recent_bull_events": [],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-28",
+          "probability": 0.9918
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-28",
+          "probability": 0.3548
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.9389
+      },
+      "springboard_score": 0.0,
+      "transition_score": 0.8215,
+      "transition_direction": "bearish",
+      "composite_score": 0.8215,
+      "tags": [
+        "阶段=distribution",
+        "近期UT p=0.99",
+        "→distribution(1周前)看跌"
+      ]
+    },
+    {
+      "ticker": "PFE",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7836,
+      "phase_confidence": 0.9567,
+      "active_tr": {
+        "ticker": "PFE",
+        "timeframe": "1wk",
+        "start": "2024-04-22",
+        "end": "2026-08-10",
+        "duration": 121,
+        "upper": 25.737041201336844,
+        "lower": 22.0346598968543,
+        "avg_volume": 213787495.43801653,
+        "volume_trend": 0.002099,
+        "width_atr": 7.62,
+        "slope_atr": 0.0091,
+        "num_sh": 10,
+        "num_sl": 9
+      },
+      "price_pos_in_tr": 1.2871011784866027,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.7928
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7836
+      },
+      "springboard_score": 0.6064,
+      "transition_score": 0.7836,
+      "transition_direction": "bullish",
+      "composite_score": 0.7836,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.79",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7809,
+      "phase_confidence": 0.9562,
+      "active_tr": {
+        "ticker": "GPN",
+        "timeframe": "1wk",
+        "start": "2025-04-14",
+        "end": "2026-08-10",
+        "duration": 70,
+        "upper": 85.7518550099046,
+        "lower": 64.86737245395781,
+        "avg_volume": 15174864.942857143,
+        "volume_trend": 0.003527,
+        "width_atr": 5.579,
+        "slope_atr": 0.0137,
+        "num_sh": 4,
+        "num_sl": 5
+      },
+      "price_pos_in_tr": 1.4346838279009748,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0546
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.7887
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-29",
+          "probability": 0.0034
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-29",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7809
+      },
+      "springboard_score": 0.5728,
+      "transition_score": 0.7809,
+      "transition_direction": "bullish",
+      "composite_score": 0.7809,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.79",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "EMR",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8779,
+      "phase_confidence": 0.9749,
+      "active_tr": {
+        "ticker": "EMR",
+        "timeframe": "1wk",
+        "start": "2024-11-25",
+        "end": "2026-08-10",
+        "duration": 90,
+        "upper": 148.36655076195996,
+        "lower": 121.93810185533471,
+        "avg_volume": 14490377.711111112,
+        "volume_trend": -0.000163,
+        "width_atr": 10.586,
+        "slope_atr": 0.0515,
+        "num_sh": 6,
+        "num_sl": 6
+      },
+      "price_pos_in_tr": 1.5994848962905082,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0496
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.5412
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.8225
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-24",
+          "probability": 0.2489
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-27",
+          "probability": 0.0222
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-24",
+          "probability": 0.3509
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-27",
+          "probability": 0.0313
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8779
+      },
+      "springboard_score": 0.6213,
+      "transition_score": 0.7682,
+      "transition_direction": "bullish",
+      "composite_score": 0.7682,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.82",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "FOX",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7642,
+      "phase_confidence": 0.9531,
+      "active_tr": {
+        "ticker": "FOX",
+        "timeframe": "1wk",
+        "start": "2024-12-16",
+        "end": "2026-08-10",
+        "duration": 87,
+        "upper": 54.430598012956665,
+        "lower": 45.99935860444745,
+        "avg_volume": 7131879.850574712,
+        "volume_trend": 0.004554,
+        "width_atr": 8.363,
+        "slope_atr": 0.0385,
+        "num_sh": 5,
+        "num_sl": 4
+      },
+      "price_pos_in_tr": 1.4352148341869042,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.7636
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-10",
+        "bars_ago": 0,
+        "probability": 0.7642
+      },
+      "springboard_score": 0.5918,
+      "transition_score": 0.7642,
+      "transition_direction": "bullish",
+      "composite_score": 0.7642,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.76",
+        "→markup(0周前)看涨"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8645,
+      "phase_confidence": 0.9723,
+      "active_tr": {
+        "ticker": "EXPE",
+        "timeframe": "1wk",
+        "start": "2025-10-06",
+        "end": "2026-08-10",
+        "duration": 45,
+        "upper": 290.83368759793234,
+        "lower": 205.91281810670506,
+        "avg_volume": 9834427.577777777,
+        "volume_trend": -0.008456,
+        "width_atr": 6.372,
+        "slope_atr": 0.0216,
+        "num_sh": 2,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.4413085992311099,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.4263
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.8038
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8645
+      },
+      "springboard_score": 0.5637,
+      "transition_score": 0.7564,
+      "transition_direction": "bullish",
+      "composite_score": 0.7564,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.80",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "GEN",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9512,
+      "phase_confidence": 0.9898,
+      "active_tr": {
+        "ticker": "GEN",
+        "timeframe": "1wk",
+        "start": "2020-08-03",
+        "end": "2026-08-10",
+        "duration": 315,
+        "upper": 24.643846332967062,
+        "lower": 19.794070402527236,
+        "avg_volume": 23412119.577777777,
+        "volume_trend": -0.000387,
+        "width_atr": 13.24,
+        "slope_atr": 0.0163,
+        "num_sh": 19,
+        "num_sl": 21
+      },
+      "price_pos_in_tr": 2.0157486515898486,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-06",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-10",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-16",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.73,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.73,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00"
+      ]
+    },
+    {
+      "ticker": "F",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8254,
+      "phase_confidence": 0.9646,
+      "active_tr": {
+        "ticker": "F",
+        "timeframe": "1wk",
+        "start": "2025-08-04",
+        "end": "2026-08-10",
+        "duration": 54,
+        "upper": 14.45917047209817,
+        "lower": 11.966251980922639,
+        "avg_volume": 317257341.8518519,
+        "volume_trend": -0.008255,
+        "width_atr": 10.295,
+        "slope_atr": 0.0744,
+        "num_sh": 3,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 0.771685223247301,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.857
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-22",
+          "probability": 0.8984
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-30",
+          "probability": 0.0506
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-22",
+          "probability": 0.321
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-30",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8254
+      },
+      "springboard_score": 0.5414,
+      "transition_score": 0.7222,
+      "transition_direction": "bullish",
+      "composite_score": 0.7222,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.86",
+        "近期UT p=0.90",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.8217,
+      "phase_confidence": 0.9639,
+      "active_tr": {
+        "ticker": "BRK-B",
+        "timeframe": "1wk",
+        "start": "2024-02-26",
+        "end": "2026-08-10",
+        "duration": 129,
+        "upper": 507.6600036621094,
+        "lower": 458.64500427246094,
+        "avg_volume": 21269456.93023256,
+        "volume_trend": 0.002689,
+        "width_atr": 9.367,
+        "slope_atr": 0.0431,
+        "num_sh": 7,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 0.9851063756927783,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.8512
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.5242
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-07",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-07",
+          "probability": 0.0447
+        }
+      ],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-08-03",
+        "bars_ago": 1,
+        "probability": 0.8217
+      },
+      "springboard_score": 0.5179,
+      "transition_score": 0.719,
+      "transition_direction": "bullish",
+      "composite_score": 0.719,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.85",
+        "→markup(1周前)看涨"
+      ]
+    },
+    {
+      "ticker": "HIG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9518,
+      "phase_confidence": 0.9899,
+      "active_tr": {
+        "ticker": "HIG",
+        "timeframe": "1wk",
+        "start": "2024-07-22",
+        "end": "2026-08-10",
+        "duration": 108,
+        "upper": 133.3723368579936,
+        "lower": 118.1425681458559,
+        "avg_volume": 7601749.962962963,
+        "volume_trend": 0.000393,
+        "width_atr": 9.726,
+        "slope_atr": 0.0641,
+        "num_sh": 7,
+        "num_sl": 8
+      },
+      "price_pos_in_tr": 1.2913807021286854,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0451
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.745
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.9286
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 0.0631
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9518
+      },
+      "springboard_score": 0.5257,
+      "transition_score": 0.7138,
+      "transition_direction": "bullish",
+      "composite_score": 0.7138,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=0.93",
+        "→markup(2周前)看涨"
+      ]
+    },
+    {
+      "ticker": "REG",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.6337,
+      "phase_confidence": 0.9299,
+      "active_tr": {
+        "ticker": "REG",
+        "timeframe": "1wk",
+        "start": "2021-08-30",
+        "end": "2026-08-10",
+        "duration": 259,
+        "upper": 65.58803370944068,
+        "lower": 54.906314872795704,
+        "avg_volume": 5160829.876447876,
+        "volume_trend": 0.001653,
+        "width_atr": 14.387,
+        "slope_atr": 0.0336,
+        "num_sh": 15,
+        "num_sl": 18
+      },
+      "price_pos_in_tr": 2.0552577795102587,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.4789
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.71,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.71,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00"
+      ]
+    },
+    {
+      "ticker": "EBAY",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.7324,
+      "phase_confidence": 0.9472,
+      "active_tr": {
+        "ticker": "EBAY",
+        "timeframe": "1wk",
+        "start": "2025-07-28",
+        "end": "2026-08-10",
+        "duration": 55,
+        "upper": 100.0094392854775,
+        "lower": 78.35200529794658,
+        "avg_volume": 25229572.21818182,
+        "volume_trend": -0.007014,
+        "width_atr": 6.902,
+        "slope_atr": 0.0791,
+        "num_sh": 4,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.2110389692614856,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-02",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-09",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-15",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-21",
+          "probability": 0.8689
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-27",
+          "probability": 0.8036
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-31",
+          "probability": 0.6673
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-06",
+          "probability": 1.0
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-06",
+        "bars_ago": 5,
+        "probability": 0.7324
+      },
+      "springboard_score": 0.71,
+      "transition_score": 0.2747,
+      "transition_direction": "bullish",
+      "composite_score": 0.71,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(5周前)看涨"
+      ]
+    },
+    {
+      "ticker": "WAB",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "WAB",
+        "timeframe": "1wk",
+        "start": "2026-01-19",
+        "end": "2026-08-10",
+        "duration": 30,
+        "upper": 270.72567517429604,
+        "lower": 241.8335842851485,
+        "avg_volume": 4562551.766666667,
+        "volume_trend": 0.003442,
+        "width_atr": 6.37,
+        "slope_atr": 0.126,
+        "num_sh": 2,
+        "num_sl": 2
+      },
+      "price_pos_in_tr": 1.9433147610050392,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-22",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-28",
+          "probability": 0.7158
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-03",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-07",
+          "probability": 0.9466
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": {
+        "from_phase": "distribution",
+        "to_phase": "markup",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9148
+      },
+      "springboard_score": 0.7022,
+      "transition_score": 0.6861,
+      "transition_direction": "bullish",
+      "composite_score": 0.7022,
+      "tags": [
+        "阶段=markup",
+        "近期SOS p=1.00",
+        "→markup(2周前)看涨"
+      ]
+    },
+    {
+      "ticker": "CRH",
+      "as_of": "2026-08-10",
+      "current_phase": "markup",
+      "phase_probability": 0.9148,
+      "phase_confidence": 0.9823,
+      "active_tr": {
+        "ticker": "CRH",
+        "timeframe": "1wk",
+        "start": "2025-09-29",
+        "end": "2026-08-10",
+        "duration": 46,
+        "upper": 120.61225499697804,
+        "lower": 98.67115727161323,
+        "avg_volume": 26519639.5,
+        "volume_trend": -0.007467,
+        "width_atr": 5.07,
+        "slope_atr": 0.0629,
+        "num_sh": 4,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": -0.04426215750583602,
+      "recent_bull_events": [
+        {
+          "event_type": "Spring",
+          "date": "2026-07-21",
+          "probability": 0.4936
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-23",
+          "probability": 0.0993
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-07-31",
+          "probability": 0.0034
+        },
+        {
+          "event_type": "Spring",
+          "date": "2026-08-06",
+          "probability": 0.7788
+        }
+      ],
+      "recent_bear_events": [],
+      "last_transition": null,
+      "springboard_score": 0.6994,
+      "transition_score": 0.0,
+      "transition_direction": null,
+      "composite_score": 0.6994,
+      "tags": [
+        "阶段=markup",
+        "近期Spring p=0.78"
+      ]
+    },
+    {
+      "ticker": "DGX",
+      "as_of": "2026-08-10",
+      "current_phase": "distribution",
+      "phase_probability": 0.9291,
+      "phase_confidence": 0.9773,
+      "active_tr": {
+        "ticker": "DGX",
+        "timeframe": "1wk",
+        "start": "2025-09-22",
+        "end": "2026-08-10",
+        "duration": 47,
+        "upper": 208.94047660107054,
+        "lower": 172.08399704242035,
+        "avg_volume": 4738114.319148936,
+        "volume_trend": -0.003964,
+        "width_atr": 7.405,
+        "slope_atr": 0.0977,
+        "num_sh": 3,
+        "num_sl": 3
+      },
+      "price_pos_in_tr": 1.7352714369243665,
+      "recent_bull_events": [
+        {
+          "event_type": "SOS",
+          "date": "2026-07-17",
+          "probability": 0.3415
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-23",
+          "probability": 1.0
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-07-29",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-04",
+          "probability": 0.0631
+        },
+        {
+          "event_type": "SOS",
+          "date": "2026-08-10",
+          "probability": 0.0569
+        }
+      ],
+      "recent_bear_events": [
+        {
+          "event_type": "BC",
+          "date": "2026-07-23",
+          "probability": 0.9685
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-06",
+          "probability": 0.0025
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-09",
+          "probability": 0.1667
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-10",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-13",
+          "probability": 0.1778
+        },
+        {
+          "event_type": "UT",
+          "date": "2026-07-16",
+          "probability": 0.0184
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-06",
+          "probability": 0.004
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-09",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-10",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-13",
+          "probability": 0.0447
+        },
+        {
+          "event_type": "UTAD",
+          "date": "2026-07-16",
+          "probability": 0.004
+        }
+      ],
+      "last_transition": {
+        "from_phase": "markup",
+        "to_phase": "distribution",
+        "entered_date": "2026-07-27",
+        "bars_ago": 2,
+        "probability": 0.9291
+      },
+      "springboard_score": 0.36,
+      "transition_score": 0.6968,
+      "transition_direction": "bearish",
+      "composite_score": 0.6968,
+      "tags": [
+        "阶段=distribution",
+        "近期SOS p=1.00",
+        "近期BC p=0.97",
+        "→distribution(2周前)看跌"
+      ]
+    }
+  ]
+}
